@@ -1,0 +1,10 @@
+Requisicao via get: os parametros sao colocados dentro da URL
+requisicao via post: os parametros sao colocados no corpo 
+
+
+Grupo de status:
+1xx - informacao
+2xx- sucesso
+3xx - redirecionamento
+4xx - erro no cliente
+5xx- erro no servidor
