@@ -1,0 +1,6 @@
+é como uma promessa do javascript, quando algo acontece vc faz a promessa do retorno
+exemplo: vou receber a idade do usuario, prometo que se nao for numero da erro e se for digitar o nome dele
+
+-as promisses levam dois argumentos: resolve ( solucao) e reject ( erro)
+-voce pode fazer mais promessas de acordo com o resultado obtivo usando o metodo then
+
