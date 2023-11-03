@@ -4,3 +4,5 @@ exemplo: vou receber a idade do usuario, prometo que se nao for numero da erro e
 -as promisses levam dois argumentos: resolve ( solucao) e reject ( erro)
 -voce pode fazer mais promessas de acordo com o resultado obtivo usando o metodo then
 
+- .then e pra caso algo seja resolvido
+e .catch para caso o bloco nao seja resolvido ( de erro )
